@@ -32,7 +32,7 @@
 <br>
 <div align="center">
   <a href="https://github.com/jvinioliveira?tab=repositories">
-  <img height="180em" width="45%" gap="20px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jvinioliveira&repo=jvinioliveira&theme=shadow_red">
+  <img height="180em" width="45%" gap="20px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jvinioliveira&repo=e-comerce-headphone&theme=shadow_red">
   <img height="180em" width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jvinioliveira&repo=landingPageBalleBot&theme=shadow_red">
   <img height="180em" width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jvinioliveira&repo=projectPortfolio&theme=shadow_red">
   <img height="180em" width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jvinioliveira&repo=projetoBootstrap&theme=shadow_red">
