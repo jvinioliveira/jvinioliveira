@@ -12,14 +12,18 @@
   </a>
 </div>
 <br>
-<h3 display="inline_block" align="center">Linguagens e Ferramentas</h3> 
 <div display="inline_block" align="center" >
-<a href="https://www.w3schools.com/html/"><img align="center" alt="Vini-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
-<a href="https://www.w3schools.com/css/"><img align="center" alt="Vini-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
-<a href="https://www.w3schools.com/js/"><img align="center" alt="Vini-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
-<a href="https://sass-lang.com/documentation/"><img align="center" alt="Vini-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></a>
-<a href="https://docs.python.org/3/"><img align="center" alt="Vini-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
-<a href="https://getbootstrap.com/"><img align="center" alt="Vini-BootStrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></a>
+  <h3>Linguagens e Ferramentas</h3> 
+  <a href="https://www.w3schools.com/html/"><img align="center" alt="Vini-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
+  <a href="https://www.w3schools.com/css/"><img align="center" alt="Vini-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
+  <a href="https://www.w3schools.com/js/"><img align="center" alt="Vini-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
+  <a href="https://sass-lang.com/documentation/"><img align="center" alt="Vini-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></a>
+  <a href="https://docs.python.org/3/"><img align="center" alt="Vini-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
+  <a href="https://getbootstrap.com/"><img align="center" alt="Vini-BootStrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></a>
+  <a href="https://git-scm.com/doc"><img align="center" alt="Vini-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
+  <a href="https://learn.microsoft.com/pt-br/windows/"><img align="center" alt="Vini-Win" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"></a>
+  <a href="https://code.visualstudio.com/docs"><img align="center" alt="Vini-" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></a>
+  <a href="https://docs.kernel.org/"><img align="center" alt="Vini-" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></a>
 </div>
 <br>
 <div display="inline_block" align="center">
