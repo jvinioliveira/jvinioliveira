@@ -32,9 +32,9 @@
 <br>
 <div display="inline_block" align="center" >
   <a href="https://github.com/jvinioliveira?tab=repositories">
-  <img height="150em" width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jvinioliveira&repo=e-comerce-headphone&theme=graywhite">
-  <img height="150em" width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jvinioliveira&repo=landingPageBalleBot&theme=graywhite">
-  <img height="150em" width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jvinioliveira&repo=projectPortfolio&theme=graywhite">
-  <img height="150em" width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jvinioliveira&repo=projetoBootStrap&theme=graywhite">
+  <img height="130em" width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jvinioliveira&repo=e-comerce-headphone&theme=graywhite">
+  <img height="130em" width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jvinioliveira&repo=landingPageBalleBot&theme=graywhite">
+  <img height="130em" width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jvinioliveira&repo=projectPortfolio&theme=graywhite">
+  <img height="130em" width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jvinioliveira&repo=projetoBootStrap&theme=graywhite">
   </a>
 </div>
