@@ -5,15 +5,16 @@
 🎉 Aprendendo a transformar código em arte pixel a pixel.<br>
 💡 Compartilhando minhas jornadas de aprendizado enquanto trilho meu caminho para me tornar um mestre das telas e layouts responsivos.<br><br>
 
-<div display="inline_block" align="center" >
+<div display="inline_block" align="center">
   <a href="https://github.com/jvinioliveira">
     <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=jvinioliveira&show_icons=true&theme=graywhite&rank_icon=github&custom_title=Minhas%20Estatísticas%20No%20GitHub">
     <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvinioliveira&theme=graywhite&custom_title=Linguagens%20Mais%20Utilizadas&layout=compact&size_weight=0.5&count_weight=0.5">
   </a>
 </div>
-
-<div display="inline_block" align="center" ><br>
-<img align="center" alt="Vini-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<br>
+<h3 display="inline_block" align="center">Linguagens e Ferramentas</h3> 
+<div display="inline_block" align="center" >
+<a href="https://www.w3schools.com/html/default.asp"><img align="center" alt="Vini-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
 <img align="center" alt="Vini-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img align="center" alt="Vini-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img align="center" alt="Vini-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
