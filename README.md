@@ -5,7 +5,7 @@
 🎉 Aprendendo a transformar código em arte pixel a pixel.<br>
 💡 Compartilhando minhas jornadas de aprendizado enquanto trilho meu caminho para me tornar um mestre das telas e layouts responsivos.<br><br>
 
-<div display="inline_block" align="center">
+<div display="flex" justify-content="space-around">
   <a href="https://github.com/jvinioliveira">
     <img height="180em" width="49%" src="https://github-readme-stats-jvinioliveira.vercel.app/api?username=jvinioliveira&show_icons=true&theme=graywhite&rank_icon=github&custom_title=Minhas%20Estatísticas%20No%20GitHub">
     <img height="180em" width="49%" src="https://github-readme-stats-jvinioliveira.vercel.app/api/top-langs/?username=jvinioliveira&theme=graywhite&custom_title=Linguagens%20Mais%20Utilizadas&layout=compact&size_weight=0.5&count_weight=0.5">
@@ -36,7 +36,7 @@
   <a href="https://discord.com/channels/@me455550334853709834" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 <br>
-<div display="inline_block" align="center" >
+<div display="flex" justify-content="space-around">
   <a href="https://github.com/jvinioliveira?tab=repositories">
   <img height="130em" width="45%" align="center" src="https://github-readme-stats-jvinioliveira.vercel.app/api/pin/?username=jvinioliveira&repo=e-comerce-headphone&theme=graywhite">
   <img height="130em" width="45%" align="center" src="https://github-readme-stats-jvinioliveira.vercel.app/api/pin/?username=jvinioliveira&repo=landingPageBalleBot&theme=graywhite">
