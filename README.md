@@ -4,7 +4,6 @@
 🖌️ Atualmente mergulhando de cabeça em HTML, CSS e JavaScript para criar experiências visuais envolventes.<br>
 🎉 Aprendendo a transformar código em arte pixel a pixel.<br>
 💡 Compartilhando minhas jornadas de aprendizado enquanto trilho meu caminho para me tornar um mestre das telas e layouts responsivos.<br><br>
-
 <div display="inline_block" align="center">
   <a href="https://github.com/jvinioliveira">
     <img height="180em" width="49%" alt="Recarregue a página" src="https://github-readme-stats-jvinioliveira.vercel.app/api?username=jvinioliveira&show_icons=true&theme=vue&rank_icon=github&custom_title=Minhas%20Estatísticas%20No%20GitHub">
@@ -13,7 +12,7 @@
 </div>
 <br>
 <div display="inline_block" align="center" >
-  <h3>Linguagens e Ferramentas</h3> 
+  <h3 style="color: red;">Linguagens e Ferramentas</h3>
   <a href="https://www.w3schools.com/html/"><img align="center" alt="Vini-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
   <a href="https://www.w3schools.com/css/"><img align="center" alt="Vini-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
   <a href="https://www.w3schools.com/js/"><img align="center" alt="Vini-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
