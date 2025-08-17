@@ -6,8 +6,8 @@
 💡 Compartilhando minhas jornadas de aprendizado enquanto trilho meu caminho para me tornar um mestre das telas e layouts responsivos.<br><br>
 <div display="inline_block" align="center">
   <a href="https://github.com/jvinioliveira">
-    <img height="180em" width="49%" alt="Recarregue a página" src="https://github-readme-stats-jvinioliveira.vercel.app/api?username=jvinioliveira&show_icons=true&theme=vue&rank_icon=github&custom_title=Minhas%20Estatísticas%20No%20GitHub">
-    <img height="180em" width="49%" alt="Recarregue a página" src="https://github-readme-stats-jvinioliveira.vercel.app/api/top-langs/?username=jvinioliveira&theme=vue&custom_title=Linguagens%20Mais%20Utilizadas&layout=compact&size_weight=0.5&count_weight=0.5">
+    <img height="180em" width="49%" alt="Recarregue a página" src="https://github-readme-stats-jvinioliveiras-projects.vercel.app/api?username=jvinioliveira&show_icons=true&theme=vue&rank_icon=github&custom_title=Minhas%20Estatísticas%20No%20GitHub">
+    <img height="180em" width="49%" alt="Recarregue a página" src="https://github-readme-stats-jvinioliveiras-projects.vercel.app/api/top-langs/?username=jvinioliveira&theme=vue&custom_title=Linguagens%20Mais%20Utilizadas&layout=compact&size_weight=0.5&count_weight=0.5">
   </a>
 </div>
 <br>
@@ -37,9 +37,9 @@
 <br>
 <div display="inline_block" align="center" >
   <a href="https://github.com/jvinioliveira?tab=repositories">
-  <img height="130em" width="45%" align="center" alt="Recarregue a página" src="https://github-readme-stats-jvinioliveira.vercel.app/api/pin/?username=jvinioliveira&repo=e-comerce-headphone&theme=vue">
-  <img height="130em" width="45%" align="center" alt="Recarregue a página" src="https://github-readme-stats-jvinioliveira.vercel.app/api/pin/?username=jvinioliveira&repo=landingPageBalleBot&theme=vue">
-  <img height="130em" width="45%" align="center" alt="Recarregue a página" src="https://github-readme-stats-jvinioliveira.vercel.app/api/pin/?username=jvinioliveira&repo=projectPortfolio&theme=vue">
-  <img height="130em" width="45%" align="center" alt="Recarregue a página" src="https://github-readme-stats-jvinioliveira.vercel.app/api/pin/?username=jvinioliveira&repo=projetoBootStrap&theme=vue">
+  <img height="130em" width="45%" align="center" alt="Recarregue a página" src="https://github-readme-stats-jvinioliveiras-projects.vercel.app/api/pin/?username=jvinioliveira&repo=e-comerce-headphone&theme=vue">
+  <img height="130em" width="45%" align="center" alt="Recarregue a página" src="https://github-readme-stats-jvinioliveiras-projects.vercel.app/api/pin/?username=jvinioliveira&repo=landingPageBalleBot&theme=vue">
+  <img height="130em" width="45%" align="center" alt="Recarregue a página" src="https://github-readme-stats-jvinioliveiras-projects.vercel.app//api/pin/?username=jvinioliveira&repo=projectPortfolio&theme=vue">
+  <img height="130em" width="45%" align="center" alt="Recarregue a página" src="https://github-readme-stats-jvinioliveiras-projects.vercel.app/api/pin/?username=jvinioliveira&repo=projetoBootStrap&theme=vue">
   </a>
 </div>
